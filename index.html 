@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Maneiro</title>
+</head>
+<body>
+    <h1>Olá, mundaaaao nosso uai!</h1>
+    <p>Este é um exemplo básico de um arquivo HTML.</p>
+    <p>Imagem 1 da monalisa:</p>
+    <img src="/imagens/monalisa.jpg"/> 
+    <p>Imagem 2 de um dalmata:</p>
+    <img src="imagens/dalmata.jpg"/> 
+</body>
+</html>
